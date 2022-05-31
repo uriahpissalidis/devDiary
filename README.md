@@ -1,6 +1,11 @@
 # devDiary
 tracking progress here!<br>
 
+### 05/30/22
+
+Realized we are almost halfway through the year and that kind of scares me, I have made a lot of progress but I'm not sure I have much to show to potential employers. The goal as of right now is to make myself employable, so I'm going to continue learning through the frontend course on udemy and learn JS and React more thoroughly. I also want to learn how to build APIs with Flask, Node and Springboot. I might even go back and finis the CI/CD course, however it seems kind of... pointless, I am a solo dev I don't need all of these tools.
+
+
 ### 05/27/22
 
 ===<br>
