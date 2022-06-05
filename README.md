@@ -1,6 +1,15 @@
 # devDiary
 tracking progress here!<br>
 
+### 06/03/22
+
+Solved 2 leetcode problems and looked into open source projects, I also had no idea there were so many projects of tracking time spent on a computer on GitHub already done! I also did more of the udemy frontend course by colt Steele (possibly wrong name). I am trying to figure out how to track time spent across desktop applications and time spent across various tabs in web browsers and distinguish time between productive and unproductive time (distinction is set by the user).
+
+
+### 06/01/22
+
+I tried to start on my goals but it felt super overwhelming today. So I took a nap and the day off. I’m finishing the leetcode daily, committing that to my GitHub and going to make some changes to my resume because it could be much, much better
+
 ### 05/30/22
 
 Realized we are almost halfway through the year and that kind of scares me, I have made a lot of progress but I'm not sure I have much to show to potential employers. The goal as of right now is to make myself employable, so I'm going to continue learning through the frontend course on udemy and learn JS and React more thoroughly. I also want to learn how to build APIs with Flask, Node and Springboot. I might even go back and finis the CI/CD course, however it seems kind of... pointless, I am a solo dev I don't need all of these tools.
