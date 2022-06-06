@@ -1,10 +1,17 @@
 # devDiary
 tracking progress here!<br>
 
+### 06/05/22
+
+Started my studying for the first AWS cert, more work in the frontend course by colt and worked on 2 leetcode problems, I got all of my goals done except for time spent in the frontend course :( got distracted with leetcode lol great day! Tomorrow I plan to do the same after work. Also future uriah, lookup what lambda is in Python.
+
+### 06/04/22
+
+Hard day today but I deepened my understanding of list slicing in Python and participated in my first ever leetcode contest, I could’ve done a lot better than I did but I understood the underlying logic for 2/4 questions so I’m happy with that. Tomorrow will include doing the AWS video and taking notes for 45 minutes and getting to the frontend udemy course for 45 minutes as well. Then I am going to get half of my resume done in addition to two more leetcode questions.
+
 ### 06/03/22
 
 Solved 2 leetcode problems and looked into open source projects, I also had no idea there were so many projects of tracking time spent on a computer on GitHub already done! I also did more of the udemy frontend course by colt Steele (possibly wrong name). I am trying to figure out how to track time spent across desktop applications and time spent across various tabs in web browsers and distinguish time between productive and unproductive time (distinction is set by the user).
-
 
 ### 06/01/22
 
