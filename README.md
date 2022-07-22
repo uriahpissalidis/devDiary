@@ -1,6 +1,9 @@
 # devDiary
 tracking progress here!<br>
 
+### 07/21/22
+Headstarter is kicking my ass but I'm learning SO MUCH
+
 ### 06/05/22
 
 Started my studying for the first AWS cert, more work in the frontend course by colt and worked on 2 leetcode problems, I got all of my goals done except for time spent in the frontend course :( got distracted with leetcode lol great day! Tomorrow I plan to do the same after work. Also future uriah, lookup what lambda is in Python.
