@@ -1,6 +1,9 @@
 # devDiary
 tracking progress here!<br>
 
+### 07/23/22
+Yelp project is going well, I want to add live location tracking, make my infobox work without crashing the app, I think tomorrow I am going to refactor the existing code I have and make it more readable. I would like to get a login page with social media links, maybe add a twilio component for email/phone notifications, add a modal for user personalization's set by me.
+
 ### 07/21/22
 Headstarter is kicking my ass but I'm learning SO MUCH
 
