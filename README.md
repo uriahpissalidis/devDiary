@@ -1,6 +1,10 @@
 # devDiary
 tracking progress here!<br>
 
+### 08/31/22 2:00 AM
+Remember to do the following tasks: add codewars' solutions to the repo, leetcode, finish the map tomorrow, get features from rest of team, optimize resume (fix typos, add other projects), apply for 5 more positions, continue Colt Steele's course and learn more react and solidify your understanding of HTML/CSS
+
+
 ### 07/23/22
 Yelp project is going well, I want to add live location tracking, make my infobox work without crashing the app, I think tomorrow I am going to refactor the existing code I have and make it more readable. I would like to get a login page with social media links, maybe add a twilio component for email/phone notifications, add a modal for user personalization's set by me.
 
