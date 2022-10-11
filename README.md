@@ -1,6 +1,9 @@
 # devDiary
 tracking progress here!<br>
 
+### 10/11/22 3:02 PM
+I'll be getting my offer from State Farm later today :)
+
 ### 08/31/22 2:00 AM
 Remember to do the following tasks: add codewars' solutions to the repo, leetcode, finish the map tomorrow, get features from rest of team, optimize resume (fix typos, add other projects), apply for 5 more positions, continue Colt Steele's course and learn more react and solidify your understanding of HTML/CSS<br>
 ALSO finish the "your goals suck" video, first thing in the morning
